@@ -16,9 +16,13 @@ h1 {
 }
 
 .cell {
+    display: flex;
     width: 20vh;
     height: 20vh;
     background-color: magenta;
     border: 1px solid black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
